@@ -1,10 +1,10 @@
 # FAQSimilarity
 本目录用于智能客服领域中FAQ相似度算法的调研
 
-【如何用 word2vec 计算两个句子之间的相似度？】https://www.zhihu.com/question/29978268/answer/55338644
-【一种基于 CNN 的短文本表达模型】https://cloud.tencent.com/developer/article/1006249
-【Siamese Network】https://blog.csdn.net/thriving_fcl/article/details/73730552
-https://zhuanlan.zhihu.com/p/35040994
+【如何用 word2vec 计算两个句子之间的相似度？】https://www.zhihu.com/question/29978268/answer/55338644  
+【一种基于 CNN 的短文本表达模型】https://cloud.tencent.com/developer/article/1006249  
+【Siamese Network】https://blog.csdn.net/thriving_fcl/article/details/73730552  
+https://zhuanlan.zhihu.com/p/35040994  
 
 
 2018.10.29-2018.11.4
