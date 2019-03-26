@@ -8,8 +8,6 @@ https://zhuanlan.zhihu.com/p/35040994
 【word2vec + tfidf】https://blog.csdn.net/zhouboke/article/details/80591208  
 【基于gensim模块的中文句子相似度计算工具】https://blog.csdn.net/wds2006sdo/article/details/51059737  
 【《Improved Representation Learning for Question Answer Matching》阅读笔记】https://zhuanlan.zhihu.com/p/23163137  
-
-2019.3.18-22 
 【新词发现方法】http://www.matrix67.com/blog/archives/5044  
 https://spaces.ac.cn/archives/4256  
 使用【词频+信息熵的切词方法】对广西27w扩展问进行jieba分词，对词进行组合和发现，得到本该分到一起而没有分到一起的词，通过设置阈值的方式得到中的新词，即userwords。通过与现有词表中的词做差集，得到userwords中的未登录词。这种新词发现的方法为userwords的添加提供依据，同时可以发现oov的词，也可以作为同义词替换的参考。  
