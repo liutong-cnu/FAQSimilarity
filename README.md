@@ -5,7 +5,6 @@
 【一种基于 CNN 的短文本表达模型】https://cloud.tencent.com/developer/article/1006249  
 【Siamese Network】https://blog.csdn.net/thriving_fcl/article/details/73730552  
 https://zhuanlan.zhihu.com/p/35040994  
-
 【word2vec + tfidf】https://blog.csdn.net/zhouboke/article/details/80591208  
 
  
