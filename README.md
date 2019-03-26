@@ -8,13 +8,13 @@ https://zhuanlan.zhihu.com/p/35040994
 
 
 2018.10.29-2018.11.4
-【方法】word2vec + tfidf
-【参考】https://blog.csdn.net/zhouboke/article/details/80591208
+【方法】word2vec + tfidf  
+【参考】https://blog.csdn.net/zhouboke/article/details/80591208  
 
 
-新词发现方法
-2019.3.18-22
-【方法】词频+信息熵的切词方法
-【参考】http://www.matrix67.com/blog/archives/5044
+新词发现方法  
+2019.3.18-22  
+【方法】词频+信息熵的切词方法  
+【参考】http://www.matrix67.com/blog/archives/5044  
 https://spaces.ac.cn/archives/4256
 
