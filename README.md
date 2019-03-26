@@ -1,5 +1,5 @@
 # FAQSimilarity
-本目录用于智能客服领域中FAQ相似度算法的调研
+本目录用于智能客服领域中FAQ相似度算法
 
 【如何用 word2vec 计算两个句子之间的相似度？】https://www.zhihu.com/question/29978268/answer/55338644  
 【一种基于 CNN 的短文本表达模型】https://cloud.tencent.com/developer/article/1006249  
