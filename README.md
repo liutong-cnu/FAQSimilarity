@@ -6,10 +6,7 @@
 【Siamese Network】https://blog.csdn.net/thriving_fcl/article/details/73730552  
 https://zhuanlan.zhihu.com/p/35040994  
 
-
-2018.10.29-2018.11.4
-【方法】word2vec + tfidf  
-【参考】https://blog.csdn.net/zhouboke/article/details/80591208  
+【word2vec + tfidf】https://blog.csdn.net/zhouboke/article/details/80591208  
 
  
    
