@@ -18,4 +18,13 @@ https://spaces.ac.cn/archives/4256
 【问答系统模型总结】https://octopuscoder.github.io/2017/09/04/%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9E%8B%E6%80%BB%E7%BB%93/  
 【基于深度学习的FAQ问答系统】https://cloud.tencent.com/developer/article/1196826  
 【智能客服FAQ问答任务的技术选型探讨】https://zhuanlan.zhihu.com/p/50799128  
+  
+    
+【topK问题的几种解法】  
+1.https://www.cnblogs.com/en-heng/p/6336625.html  
+2.https://blog.csdn.net/luochoudan/article/details/53736752  
+3.http://zhuanlan.51cto.com/art/201809/584259.htm  
+4.https://my.oschina.net/7001/blog/1633536  
+5.https://uule.iteye.com/blog/2413147  
+6.https://zhuanlan.zhihu.com/p/31498036  
 
